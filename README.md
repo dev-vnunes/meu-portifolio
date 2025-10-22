@@ -1,3 +1,3 @@
-# meu-portifolio - Vitor Emanuel
+# Portifólio - Vitor Emanuel
 
 Página do meu portifólio
